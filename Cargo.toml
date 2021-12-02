@@ -1,0 +1,12 @@
+[package]
+name = "fauxpas"
+description = "anyhow without `Ok`"
+version = "1.0.51"
+license = "MIT OR Apache-2.0"
+edition = "2018"
+rust-version = "1.38"
+repository = "https://github.com/panicbit/fauxpas"
+documentation = "https://docs.rs/fauxpas"
+
+[dependencies]
+anyhow = "1.0.51"
